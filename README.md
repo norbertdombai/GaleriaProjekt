@@ -1,1 +1,1 @@
-# GaleriaProjekt
+Dombai Norbert
