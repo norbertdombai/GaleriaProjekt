@@ -7,8 +7,8 @@ import java.io.File;
 public class Festmeny {
     
  public static void main(String[] args) {
-        File file = new File("");
-        File directory = new File("C:\\SZÁMALK\\GaleriaProjekt");
+        File file = new File("kep.txt");
+        File directory = new File("C:\\SZÁMALK\\GaleriaProjekt\\");
 
          if(file.isFile()){
                     System.out.println(file + "megejelnítés folyamatban");
