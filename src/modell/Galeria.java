@@ -5,10 +5,15 @@
  */
 package modell;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author dombai.norbert
  */
-public class Galeria {
-    
-}
+public abstract class Galeria implements Iterable <KiallitasiTargy> {
+     private ArrayList<KiallitasiTargy> KiallitasiTargyLista;
+
+
+    }
+
