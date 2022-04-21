@@ -31,6 +31,18 @@ public abstract class KiallitasiTargy {
         return letrehozas;
     }
 
+    public void setKeszto(String keszto) {
+        this.keszto = keszto;
+    }
+
+    public void setCim(String cim) {
+        this.cim = cim;
+    }
+
+    public void setLetrehozas(String letrehozas) {
+        this.letrehozas = letrehozas;
+    }
+
    
     
     
